@@ -1,0 +1,9 @@
+# Python-related files
+__pycache__/
+
+# zsh-autoenv files
+autoenv-enter.zsh
+autoenv-leave.zsh
+
+# Visual Studio Code environment file
+.env
